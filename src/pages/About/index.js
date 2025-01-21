@@ -100,10 +100,10 @@ const About = () => {
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Address : </span>Salvador, Bahia, Brazil
               </h2>
-              <a
+              {/* <a
                 href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
                 target="blank"
-              >
+              > */}
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
                   <button className="primary-button">
                     <span>My Resume</span>
@@ -113,7 +113,7 @@ const About = () => {
                   </button>
                 </div>
 
-              </a>
+              {/* </a> */}
             </div>
           </motion.div>
         </div>

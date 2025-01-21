@@ -81,18 +81,18 @@ export default function Navbar() {
               </li>
             ))}
 
-            <a
+            {/* <a
               className="inline-block ml-4"
               href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
               target="blank"
-            >
+            > */}
               <PrimaryBtn>
                 <span>Resume</span>
                 <span>
                   <FaDownload />
                 </span>
               </PrimaryBtn>
-            </a>
+            {/* </a> */}
           </ul>
           <div className="block lg:hidden">
             <button onClick={toggleDrawer} className="btn btn-ghost text-white">
