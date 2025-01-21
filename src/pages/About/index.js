@@ -38,9 +38,9 @@ const About = () => {
             <img
               // src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
               src="https://res.cloudinary.com/dfszu4eca/image/upload/e_background_removal/f_png/v1737426138/1face-swap_sos39t.png"
-              alt="Gilbert Hutapea"
+              alt="Rafael Santos"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
-              // title="Gilbert Hutapea"
+              // title="Rafael Santos"
             />
 
           </motion.div>
